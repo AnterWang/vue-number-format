@@ -7,9 +7,9 @@ Vue Number Format is used to format a number using fixed-point notation. It can 
 ## Installation
 
 ```bash
-npm install @AnterWang/vue-number-format
+npm install @wangzhipeng/vue-number-format
 or
-yarn add @AnterWang/vue-number-format
+yarn add @wangzhipeng/vue-number-format
 ```
 
 ## Features

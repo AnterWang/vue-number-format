@@ -1,5 +1,5 @@
 {
-  "name": "vue-number-format",
+  "name": "@wangzhipeng/vue-number-format",
   "version": "3.16.0",
   "private": false,
   "description": "Easy formatted numbers, currency and percentage with input/directive mask for Vue.js",
@@ -47,7 +47,7 @@
     "url": "https://github.com/AnterWang/vue-number-format.git"
   },
   "publishConfig": {
-    "@AnterWang:registry": "https://npm.pkg.github.com"
+    "@wangzhipeng:registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.2.0",
