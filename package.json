@@ -46,9 +46,6 @@
     "type": "git",
     "url": "https://github.com/AnterWang/vue-number-format.git"
   },
-  "publishConfig": {
-    "@wangzhipeng:registry": "https://npm.pkg.github.com"
-  },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.2.0",
     "@testing-library/dom": "^8.18.1",
